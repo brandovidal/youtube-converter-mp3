@@ -6,7 +6,7 @@
 
 *Requirements*
 
-youtube_dlff
+Install youtube_dl
 
 `pip install youtube_dl`
 
