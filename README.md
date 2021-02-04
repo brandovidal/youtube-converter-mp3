@@ -1,5 +1,23 @@
 # Youtube converter mp3
 
+*Requirements*
+
+youtube_dlff
+
+`pip install youtube_dl`
+
+
+Download FFmpeg
+
+`https://ffmpeg.org/download.html`
+
+
+Or using Arch Linux Install
+
+`yay -S ffmpeg-git`
+
+
+
 *Execute path directory*
 
 `path = '$HOME/musica/mp3/'`
