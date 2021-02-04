@@ -1,5 +1,9 @@
 # Youtube converter mp3
 
+*Tutorial && credits*
+
+`https://www.youtube.com/watch?v=GJTZnM_oj7U`
+
 *Requirements*
 
 youtube_dlff
